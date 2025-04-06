@@ -1,0 +1,11 @@
+ProductID,ProductName,SupplierID,UnitPrice
+201,Laptop,1,1000.00
+202,Smartphone,2,500.00
+203,Tablet,3,300.00
+204,Monitor,4,150.00
+205,Keyboard,5,50.00
+206,Mouse,6,25.00
+207,Printer,7,200.00
+208,Scanner,8,120.00
+209,Webcam,9,80.00
+210,Headphones,10,70.00
